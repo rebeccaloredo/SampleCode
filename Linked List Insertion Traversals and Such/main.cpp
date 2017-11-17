@@ -1,6 +1,4 @@
-//
-//  main.cpp
-//  Assignment1
+
 //
 //  Created by Rebecca Loredo on 1/31/17.
 //  Copyright © 2017 Rebecca Loredo. All rights reserved.
